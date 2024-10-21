@@ -1,0 +1,3 @@
+Criar uma conta e fazer o login na plataforma Microsoft Azure.
+
+Na coluna da esquerda, podemos encontrar os serviços disponíveis, incluindo recursos de rede, armazenamento, entre outros.
