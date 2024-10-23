@@ -8,3 +8,20 @@ SLA      Tempo de inatividade por semana   Tempo de inatividade por mês   Tempo
 99,95%   5 minutos                         21,6 minutos                   4,38 horas
 99,99%   1,01 minuto                       4,32 minutos                   52,56 minutos
 99,999%  6 segundos                        25,9 segundos                  5,26 minutos
+
+IaaS (Infraestrutura como Serviço)
+Servidores e armazenamento: Fornece infraestrutura virtual para gerenciar servidores e armazenamento, permitindo o controle total sobre esses recursos.
+Firewalls/segurança de rede: Protege os dados com ferramentas como firewalls e controles de segurança de rede.
+Planta física/edifício do datacenter: Estrutura física onde os servidores estão armazenados e operados.
+PaaS (Plataforma como Serviço)
+Servidores e armazenamento: Parte da infraestrutura fornecida para rodar aplicativos sem necessidade de gerenciar hardware.
+Sistemas operacionais: Oferece sistemas operacionais pré-configurados, simplificando o desenvolvimento de aplicativos.
+Ferramentas para desenvolvedores: Conjunto de ferramentas que auxiliam no desenvolvimento, teste e gerenciamento de aplicativos.
+SaaS (Software como Serviço)
+Sistemas operacionais: Gerenciados pelo provedor, permitindo ao usuário focar apenas no uso do software.
+Aplicativos/apps hospedados: Aplicações prontas para uso acessíveis via internet, sem a necessidade de instalação local.
+Ferramentas de desenvolvimento e gerenciamento de banco de dados: Gerenciadas pelo provedor, oferecendo ao usuário final apenas o software pronto.
+
+Diferenças entre IaaS, PaaS e SaaS:
+A principal diferença entre eles está no nível de controle e responsabilidade do usuário. No IaaS, o usuário gerencia desde o sistema operacional até as aplicações, enquanto o provedor oferece apenas a infraestrutura. No PaaS, o provedor oferece a infraestrutura e a plataforma de desenvolvimento, e o usuário foca apenas no desenvolvimento das suas aplicações. Já no SaaS, o provedor gerencia tudo, desde a infraestrutura até o software, permitindo que o usuário final consuma apenas o aplicativo, sem se preocupar com configurações técnicas.
+
